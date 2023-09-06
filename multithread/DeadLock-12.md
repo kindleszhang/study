@@ -1,0 +1,2 @@
+In this video i have explain what is dead lock with the help of program in c++. And we will learn how to avoid them.
+There are many techniques to to detect and avoid deadlocks. But it always considered a good practice to analyse and avoid the dead lock instead later resolving it.
